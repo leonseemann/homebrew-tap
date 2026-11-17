@@ -1,6 +1,6 @@
 cask "openseries" do
-  version "0.3.0"
-  sha256 "a77516a0bc03f012e0fd4eb7bf6acc083c387530ca968ae09ccf0a42dd3df9fa"
+  version "0.4.0"
+  sha256 "1fc4b1278e4dbfd42131a0e29de4a865350ac4c216c7ad66689dd52727c63887"
 
   url "https://github.com/leonseemann/openseries/releases/download/v#{version}/OpenSeries-#{version}-macos-arm64.zip"
   name "OpenSeries"
